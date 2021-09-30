@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 , a freshman year at the Thapar Institute of Engineering and Technology. I prefer MERN stack for development but recently, I've been trying to work with Django. I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) . Beside's programming, I workout a bit, stress over things and go to bed late. 
 
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
- <!-- <img align="right" alt="GIF" src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" /> -->
- <iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>
+ <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47kh0wdgxqgaq8cmkgwmdk8nx84yw2uez5r59jn2v3&rid=giphy.gif&ct=g" /> -->
+ <iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   
 **Personal Tech Updates**
 
