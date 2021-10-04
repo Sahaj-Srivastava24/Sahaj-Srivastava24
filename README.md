@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh) -->
 <!-- <br /> -->
 
-, a freshman year at the Thapar Institute of Engineering and Technology. I prefer MERN stack for development but recently, I've been trying to work with Django. I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) . Beside's programming, I workout a bit, stress over things and go to bed late. 
+A freshman year at the Thapar Institute of Engineering and Technology. I prefer MERN stack for development but recently, I've been trying to work with Django. I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) . Beside's programming, I workout a bit, stress over things and go to bed late. 
 
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  <img align="right" alt="GIF" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47kh0wdgxqgaq8cmkgwmdk8nx84yw2uez5r59jn2v3&rid=giphy.gif&ct=g" />
