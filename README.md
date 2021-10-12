@@ -29,7 +29,7 @@ A freshman year at the Thapar Institute of Engineering and Technology. I prefer 
 **Personal Tech Updates**
 
 - 🌱 I’m currently learning Data Science and Analytics.
-- 🔭 I’m currently working on Data Analytics projects.
+- 🔭 I’m currently working on Web Development projects.
 - 👯 I’m looking to collaborate on Full stack projects.
 - 💬 Looking for guidance in Machine Learning.
 - 💬 Ask me about anything, I am happy to help;
