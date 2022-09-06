@@ -35,6 +35,13 @@ A freshman year at the Thapar Institute of Engineering and Technology. I prefer 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : srivastavasahaj24@gmail.com
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx mad1ad
+```
+**👆 This command line tool can be found at [npx mad1ad](https://github.com/Sahaj-Srivastava24/npx_card)**
+
 **Languages and Tools:**  
 
 <!-- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> -->
